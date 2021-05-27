@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Pro63",
-    "slug": "Pro63",
+    "name": "pro64",
+    "slug": "snack-e67154d3-40f7-460e-aeae-569108906a16",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This app is an app that helps you find the definition of words"
   }
 }
